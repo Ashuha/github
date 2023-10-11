@@ -2,3 +2,6 @@ Hi
 this 
 example of 
 github
+<HTML>
+<B>Hi this is html file </B>
+</HTML>
